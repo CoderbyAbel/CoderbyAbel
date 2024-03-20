@@ -1,5 +1,5 @@
 👋 Hello, I'm @CoderbyAbel
-- 👀 I am interested in Programming: front-end, back-end, mobile.
+- 👀 I am interested in Programming: web, front-end, back-end, mobile.
 - 🌱 I am currently learning JAVA - object orientation
 - 💞️ I'm looking to collaborate on solving problems related to programming
 - 📫 How to reach me Github: @CoderbyAbel, Instagram: @abelsantan09, email: abeleliziarioneto2022@gmail.com
